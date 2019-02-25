@@ -1,3 +1,3 @@
 # kzmaro
 My Homepage   
-[サイトはこちら](https:///kzmaro.github.io)
+[サイトはこちら](https://kzmaro.github.io/kzmaro/)
