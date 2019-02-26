@@ -1,3 +1,3 @@
 # Gallary
 My Homepage   
-[サイトはこちら](https://kzmaro.github.io/kzmaro/Gallary)
+[サイトはこちら](https://kzmaro.github.io/Gallary/)
